@@ -7,4 +7,4 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **development**, **design** & **thinking**
 - 📫 Reach me: [twitter.com/sraaronrock](https://twitter.com/sraaronrock)
-- ⚡️ Fun fact: I'm a huge fan of Batma
+- ⚡️ Fun fact: I'm a huge fan of Batman
